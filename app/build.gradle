@@ -10,7 +10,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.agaafar.jetdo2"
+        applicationId "com.agaafar.mytasks"
         minSdk 21
         targetSdk 31
         versionCode 1
